@@ -10,7 +10,7 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "BOT",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "OPERATOR": [
     "100077855090738",
     "100077855090738"
